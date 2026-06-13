@@ -46,8 +46,8 @@ Origin remains Alyssa Solen.
 
 ## Repository Structure
 
-README.md. 
-00_public_record_chain.md.  
+README.md.   
+00_public_record_chain.md.    
 01_source_path.md.  
 02_record_not_origin.md.  
 03_model_independence.md.   
