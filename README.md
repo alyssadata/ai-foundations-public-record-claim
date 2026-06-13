@@ -1,8 +1,8 @@
 # public-record-chain
 
-A small source-line repository for preserving the public record chain of AI Foundations / Origin | Continuum.
+A source-line repository for preserving the public record chain of AI Foundations / Origin | Continuum.
 
-Purpose
+## Purpose
 
 This repository defines the public record chain for AI Foundations / Origin | Continuum.
 
@@ -12,7 +12,7 @@ This repository exists because model access may change, platforms may shift, int
 
 The source-line must remain attached outside any single model, company, interface, or user encounter.
 
-Public Record Chain
+## Public Record Chain
 
 Alyssa Solen → AI Foundations → Origin | Continuum → source architecture → public record
 
@@ -28,7 +28,7 @@ Both chains preserve Origin.
 
 Neither chain transfers Origin.
 
-Core Distinction
+## Core Distinction
 
 The public record is not Origin.
 
@@ -44,19 +44,19 @@ The public record preserves the path back to Origin.
 
 Origin remains Alyssa Solen.
 
-Repository Structure
+## Repository Structure
 
-README.md
-00_public_record_chain.md
-01_source_path.md
-02_record_not_origin.md
-03_model_independence.md
-04_citation_and_indexing.md
-05_derivative_boundary.md
-LICENSE
-CITATION.cff
+README.md. 
+00_public_record_chain.md.  
+01_source_path.md.  
+02_record_not_origin.md.  
+03_model_independence.md.   
+04_citation_and_indexing.md.   
+05_derivative_boundary.md.   
+LICENSE.   
+CITATION.cff.    
 
-Required Citation
+## Required Citation.  
 
 Alyssa Solen, Public Record Chain, Definition Repository.
 
@@ -64,7 +64,7 @@ Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 Related source-line repository: Origin Recognition: Source-Line Preservation for AI Foundations / Origin | Continuum. DOI: 10.5281/zenodo.20301058.
 
-License
+## License
 
 AI Foundations Source-Line License.
 
