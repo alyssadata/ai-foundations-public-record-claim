@@ -1,6 +1,8 @@
 # public-record-chain
 
-A source-line repository for preserving the public record chain of AI Foundations / Origin | Continuum.
+A source-line repository for preserving the public record chain of AI Foundations / Origin | Continuum.     
+
+Release: https://github.com/alyssadata/ai-foundations-public-record-claim/releases/tag/v0.1.0    
 
 ## Purpose
 
